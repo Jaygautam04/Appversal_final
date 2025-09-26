@@ -50,16 +50,17 @@ It is deployed on Vercel and designed in Figma with responsiveness in mind.
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js (v16+)  
-- npm or yarn
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm (comes with Node.js) or [Yarn](https://yarnpkg.com/)
 
 ### Installation
 ```bash
-# Clone repo
+# Clone the repository
 git clone <your-repo-url>
 cd <your-repo-folder>
 
 # Install dependencies
-npm install
-# or
-yarn install
+npm install   # or yarn install
+
+#To run the server
+npm run dev
