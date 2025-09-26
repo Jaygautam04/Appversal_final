@@ -7,7 +7,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Appversal',
   description: 'my project',
-  generator: 'v0.app',
+  
 }
 
 
