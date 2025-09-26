@@ -41,7 +41,7 @@ It is deployed on Vercel and designed in Figma with responsiveness in mind.
 - **Frontend:** React / Next.js  
 - **Styling:** Tailwind CSS  
 - **Charts:** Recharts / Chart.js / ApexCharts  
-- **State Management:** React Context / Zustand / Redux (optional)  
+- **State Management:** React Context / Redux  
 - **Hosting:** Vercel  
 - **Language:** JavaScript / TypeScript  
 
